@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Felaadtok</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body>
+    <div id="elsobe">
+      <h2>Első feladatat</h2>  
+      <p>terület felületszámítás kockának</p>
+        <label for="a_oldal">Első oldal: </label>
+        <input type="number" id="a_oldal"><br>
+        <label for="b_oldal">Második oldal: </label>
+        <input type="number" id="b_oldal"><br>
+        <label for="c_oldal">Harmadik oldal: </label>
+        <input type="number" id="c_oldal"><br>
+        <button onclick="cuboid()">Számítás</button>
+    </div>
+    <div id="elsoki"></div>
+
+    <div id="masodikbe">
+        <h2>Masodik feladat</h2>
+        <p>hátralévő másodpercek a napból</p>                  <!-- befejzni szar lett -->
+        <label for="ora">Hány óra: </label>
+        <input type="number" id="ora"><br>
+        <label for="perc">Hány perc: </label>
+        <input type="number" id="perc"><br>
+        <label for="masodperc">Hány másodperc: </label>
+        <input type="number" id="masodperc"><br>
+        <button onclick="secondsUntil()">Számítás</button>
+    </div>
+    <div id = "masodikki"></div>
+
+    <div id = "harmadikbe">
+        <h2>Harmadik feladat</h2>
+        <p>Bmi kiszámolása</p>
+        <label for="weight">Add meg a súlyod (kg-ban): </label>
+        <input type="number" id="weight"><br>
+        <label for="height">Add meg a magasságod (m-ben): </label>
+        <input type="number" id="height"><br>
+        <button onclick="bmiCalculator()">Számítás</button>
+    </div>
+    <div id="harmadikki"></div>
+
+    <div id = "negyedikbe">
+        <h2>Negyedik feladat</h2>
+        <p>Osztályozó A: 100-90 B: 89-70 C: 69-50 D: 49-30 F: 29-0</p>
+        <label for="maxScore">Add meg a maximum pontszámot: </label>
+        <input type="number" id="maxScore"><br>
+        <label for="score">Add meg a diák pontszámát: </label>
+        <input type="number" id="score"><br>
+        <button onclick="gradeMaker()">Számítás</button>
+    </div>
+
+    <div id="negyedikki"></div>
+    <div id="otodikbe">
+        <h2>Ötödik feladat</h2>
+        <p>Szököév-e</p>
+        <label for="leapyear">Add meg az évet: </label>
+        <input type="number" id="leapyear"><br>
+        <button onclick="leapyearCal()">Számítás</button>
+    </div>
+    <div id="otodikki"></div>
+
+    <div id="hatodikbe">
+        <h2>Hatodik feladat</h2>
+        <p>Kő papír olló játék, Kő-k Papír-p Ollo-o</p>
+        <label for="playerOne">Add meg az első játékos jelét: </label>
+        <input type="text" id="playerOne"><br>
+        <label for="playerTwo">Add meg a második játékos jelét: </label>
+        <input type="text" id="playerTwo"><br>
+        <button onclick="StonePaperSeisors()">Számítás</button>
+    </div>
+    <div id="hatodikki"></div>
+
+    <div id="hetedikbe">
+        <H2>Hetedik feladat</H2>
+        <p>Betűző</p>
+        <label for="word">Add meg a szót: </label>
+        <input type="text" id="word"><br>
+        <button onclick="">Számítás</button>
+    </div>
+    <div id="hetedikki"></div>
+</body>
+</html>

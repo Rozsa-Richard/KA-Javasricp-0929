@@ -1,0 +1,96 @@
+#elsobe {
+    width: 60%;
+    background-color: rgb(236, 215, 138) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#elsoki {
+    width: 39%;
+    float: right;
+    height: 200px;
+    background-color: rgb(233, 203, 95) ;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#masodikbe {
+    width: 60%;
+    background-color: rgb(233, 203, 95) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#masodikki {
+    background-color: rgb(236, 215, 138) ;
+    width: 39%;
+    float: right;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#harmadikbe {
+    width: 60%;
+    background-color: rgb(236, 215, 138) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#harmadikki {
+    width: 39%;
+    float: right;
+    height: 200px;
+    background-color: rgb(233, 203, 95) ;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#negyedikbe{
+    width: 60%;
+    background-color: rgb(233, 203, 95) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#negyedikki {
+    background-color: rgb(236, 215, 138) ;
+    width: 39%;
+    float: right;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#otodikbe {
+    width: 60%;
+    background-color: rgb(236, 215, 138) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#otodikki {
+    width: 39%;
+    float: right;
+    height: 200px;
+    background-color: rgb(233, 203, 95) ;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#hatodikbe {
+    width: 60%;
+    background-color: rgb(233, 203, 95) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#hatodikki{
+    background-color: rgb(236, 215, 138) ;
+    width: 39%;
+    float: right;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 15px;
+}

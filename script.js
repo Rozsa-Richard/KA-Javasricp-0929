@@ -60,5 +60,8 @@ function StonePaperSeisors(){
 }
 function Spelling(){
     let word = document.getElementById("word").value;
-    
+    let outputdiv = document.getElementById("hetedikki");
+    for (i in word){
+        outputdiv.innerHTML=i+"<br>"
+    }
 }

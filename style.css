@@ -94,3 +94,19 @@
     margin: auto;
     margin-bottom: 15px;
 }
+#hetedikbe {
+    width: 60%;
+    background-color: rgb(236, 215, 138) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#hetedikki {
+    width: 39%;
+    float: right;
+    height: 200px;
+    background-color: rgb(233, 203, 95) ;
+    margin: auto;
+    margin-bottom: 15px;
+}

@@ -110,3 +110,117 @@
     margin: auto;
     margin-bottom: 15px;
 }
+#nyolcadikbe{
+    width: 60%;
+    background-color: rgb(233, 203, 95) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#nyolcadikki{
+    background-color: rgb(236, 215, 138) ;
+    width: 39%;
+    float: right;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#kilencedikbe {
+    width: 60%;
+    background-color: rgb(236, 215, 138) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#kilencedikki{
+    width: 39%;
+    float: right;
+    height: 200px;
+    background-color: rgb(233, 203, 95) ;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#tizedikbe{
+    width: 60%;
+    background-color: rgb(233, 203, 95) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#tizedikki{
+    background-color: rgb(236, 215, 138) ;
+    width: 39%;
+    float: right;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 15px;
+    white-space: pre;
+  font-family: monospace;
+}
+#tizenegybe {
+    width: 60%;
+    background-color: rgb(236, 215, 138) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#tizenegyki{
+    width: 39%;
+    float: right;
+    height: 200px;
+    background-color: rgb(233, 203, 95) ;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#tizenkettobe{
+    width: 60%;
+    background-color: rgb(233, 203, 95) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#tizenkettoki{
+    background-color: rgb(236, 215, 138) ;
+    width: 39%;
+    float: right;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#tizenharombe{
+    width: 60%;
+    background-color: rgb(236, 215, 138) ;
+    height: 400px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#tizenharomki{
+    width: 39%;
+    float: right;
+    height: 400px;
+    background-color: rgb(233, 203, 95) ;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#tizennegybe{
+    width: 60%;
+    background-color: rgb(233, 203, 95) ;
+    height: 200px;
+    float: left;
+    margin: auto;
+    margin-bottom: 15px;
+}
+#tizennegyki{
+    background-color: rgb(236, 215, 138) ;
+    width: 39%;
+    float: right;
+    height: 200px;
+    margin: auto;
+    margin-bottom: 15px;
+}
